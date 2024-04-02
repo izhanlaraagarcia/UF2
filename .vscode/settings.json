@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "practica1/notas.java": true,
+        "**/notas.java": true,
+        "practica1/*.java": true,
+        "practica1/*.*": true,
+        "notas.java": true,
+        "**/*.java": true
+    },
+    "explorerExclude.backup": {}
+}
